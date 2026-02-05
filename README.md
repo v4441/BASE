@@ -2,7 +2,7 @@
 Smart contrat on BASE network
 
 📌 Smart Contract
-Adresse du contrat : NA
+Adresse du contrat : Undisclosed
 Réseau : Base Mainnet (https://mainnet.base.org)
 Langage : Solidity (^0.8.19)
 Fonctionnalités :
