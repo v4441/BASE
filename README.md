@@ -1,8 +1,8 @@
 # BASE
-Smart contrat BASE
+Smart contrat on BASE network
 
 📌 Smart Contract
-Adresse du contrat : 0x96E76c8A4bd29B962c7285D2DB80a11675028fb6
+Adresse du contrat : NA
 Réseau : Base Mainnet (https://mainnet.base.org)
 Langage : Solidity (^0.8.19)
 Fonctionnalités :
